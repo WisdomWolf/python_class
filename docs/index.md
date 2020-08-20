@@ -1,5 +1,5 @@
 ---
-title: The wisest place to learn Python
+title: Developing Wisdom Python Class
 ---
 ## Class Details
 
