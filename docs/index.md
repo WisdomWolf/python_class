@@ -1,32 +1,17 @@
 ---
 title: The wisest place to learn Python
 ---
-## Welcome to GitHub Pages
+## Welcome to the Developing Wisdom Python Class
 
-You can use the [editor on GitHub](https://github.com/WisdomWolf/python_class/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+We have live classes streamed on YouTube every Saturday at 12:30 Eastern|09:30 Pacific|16:30 UTC
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Things are still under construction as we figure out the best way to organize everything and setup a robust learning environment.  
 
-### Markdown
+Official coursework, grades, and announcements can be found in the [Google Classroom](https://classroom.google.com/u/0/c/MTQ4MzM3NDk0MzYy?cjc=o2layyd)
+Assignments can be found on [GitHub Classroom](https://classroom.github.com/classrooms/36277423-developingwisdom-python-class)
+Tutorials can be found on the [Wiki](https://github.com/WisdomWolf/python_class/wiki)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Videos
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Lesson 1](https://youtu.be/AK4bBVeSm0k)
+- [Lesson 2](https://youtu.be/4_JS702uioY)
