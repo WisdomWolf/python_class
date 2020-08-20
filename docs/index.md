@@ -1,7 +1,7 @@
 ---
 title: The wisest place to learn Python
 ---
-## Welcome to the Developing Wisdom Python Class
+## Class Details
 
 We have live classes streamed on YouTube every Saturday |12:30 Eastern|09:30 Pacific|16:30 UTC
 
