@@ -17,3 +17,20 @@ Tutorials can be found on the [Wiki](https://github.com/WisdomWolf/python_class/
 
 - [Lesson 1](https://youtu.be/AK4bBVeSm0k)
 - [Lesson 2](https://youtu.be/4_JS702uioY)
+
+### Zoom Meeting Details
+Topic: Python Class
+Time: Aug 22, 2020 12:00 PM Eastern Time (US and Canada)
+        Every week on Sat, until Oct 3, 2020, 7 occurrence(s)
+        Aug 22, 2020 12:00 PM
+        Aug 29, 2020 12:00 PM
+        Sep 5, 2020 12:00 PM
+        Sep 12, 2020 12:00 PM
+        Sep 19, 2020 12:00 PM
+        Sep 26, 2020 12:00 PM
+        Oct 3, 2020 12:00 PM
+Please download and import the following iCalendar (.ics) files to your calendar system.
+Weekly: https://us02web.zoom.us/meeting/tZYuduiprjsqG9ChzYKUZxYIanor3hFhBADG/ics?icsToken=98tyKuGqrTorG9SVsBiDRpwQA4j4d-vziGJfjfp-lAXcKBVpejrfN-xNIOF3NtDy
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/82311100014?pwd=ZlJBaUxWUXNkRjBLVzVBRDVLTVpUZz09
