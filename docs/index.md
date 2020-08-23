@@ -13,6 +13,7 @@ Tutorials can be found on the <a href="https://github.com/WisdomWolf/python_clas
 ### Videos
 - <a href="https://youtu.be/AK4bBVeSm0k" target="_blank">Lesson 1</a>
 - <a href="https://youtu.be/4_JS702uioY" target="_blank">Lesson 2</a>
+- <a href="https://youtu.be/ECM0AhQejz0" target="_blank">Lesson 3</a>
 
 ### Zoom Meeting Details
 > Topic: Python Class  
