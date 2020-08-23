@@ -9,8 +9,6 @@ Things are still under construction as we figure out the best way to organize ev
 
 Official coursework, grades, and announcements can be found in the [Google Classroom](https://classroom.google.com/u/0/c/MTQ4MzM3NDk0MzYy?cjc=o2layyd)
 
-Assignments can be found on [GitHub Classroom](https://classroom.github.com/a/8p8bztoo)
-
 Tutorials can be found on the [Wiki](https://github.com/WisdomWolf/python_class/wiki)
 
 ### Videos
